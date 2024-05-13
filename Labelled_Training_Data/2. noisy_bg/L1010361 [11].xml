@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2. noisy_bg</folder>
+	<filename>L1010361.JPG</filename>
+	<path>C:\Users\glanz\source\repos\ImageAnalysis\Labelling\train\2. noisy_bg\L1010361.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0.05CHF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1294</xmin>
+			<ymin>1103</ymin>
+			<xmax>1713</xmax>
+			<ymax>1522</ymax>
+		</bndbox>
+	</object>
+</annotation>

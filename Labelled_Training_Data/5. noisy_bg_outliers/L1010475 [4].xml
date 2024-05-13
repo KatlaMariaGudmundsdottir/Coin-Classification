@@ -1,0 +1,50 @@
+<annotation>
+	<folder>5. noisy_bg_outliers</folder>
+	<filename>L1010475.JPG</filename>
+	<path>C:\Users\glanz\source\repos\ImageAnalysis\Labelling\train\5. noisy_bg_outliers\L1010475.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5CHF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2156</xmin>
+			<ymin>1330</ymin>
+			<xmax>2905</xmax>
+			<ymax>2081</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>OOD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2105</xmin>
+			<ymin>2058</ymin>
+			<xmax>2688</xmax>
+			<ymax>2647</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5CHF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1849</xmin>
+			<ymin>2598</ymin>
+			<xmax>2598</xmax>
+			<ymax>3342</ymax>
+		</bndbox>
+	</object>
+</annotation>
