@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4. neutral_bg_outliers</folder>
+	<filename>L1010436.JPG</filename>
+	<path>C:\Users\glanz\source\repos\ImageAnalysis\Labelling\train\4. neutral_bg_outliers\L1010436.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OOD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2607</xmin>
+			<ymin>1902</ymin>
+			<xmax>3135</xmax>
+			<ymax>2437</ymax>
+		</bndbox>
+	</object>
+</annotation>

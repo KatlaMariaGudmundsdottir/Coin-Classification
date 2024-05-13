@@ -1,0 +1,50 @@
+<annotation>
+	<folder>6. hand_outliers</folder>
+	<filename>L1010521.JPG</filename>
+	<path>C:\Users\glanz\source\repos\ImageAnalysis\Labelling\train\6. hand_outliers\L1010521.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5CHF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3093</xmin>
+			<ymin>863</ymin>
+			<xmax>3893</xmax>
+			<ymax>1658</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>OOD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2400</xmin>
+			<ymin>1616</ymin>
+			<xmax>3016</xmax>
+			<ymax>2235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2EUR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2842</xmin>
+			<ymin>2005</ymin>
+			<xmax>3519</xmax>
+			<ymax>2677</ymax>
+		</bndbox>
+	</object>
+</annotation>

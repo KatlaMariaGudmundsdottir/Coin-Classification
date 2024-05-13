@@ -1,0 +1,50 @@
+<annotation>
+	<folder>3. hand</folder>
+	<filename>L1010391.JPG</filename>
+	<path>C:\Users\glanz\source\repos\ImageAnalysis\Labelling\train\3. hand\L1010391.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2EUR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2562</xmin>
+			<ymin>1838</ymin>
+			<xmax>3215</xmax>
+			<ymax>2485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0.2EUR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3185</xmin>
+			<ymin>1719</ymin>
+			<xmax>3738</xmax>
+			<ymax>2281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2CHF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2996</xmin>
+			<ymin>2296</ymin>
+			<xmax>3702</xmax>
+			<ymax>2985</ymax>
+		</bndbox>
+	</object>
+</annotation>

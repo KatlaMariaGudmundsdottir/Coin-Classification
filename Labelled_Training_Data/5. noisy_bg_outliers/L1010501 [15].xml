@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5. noisy_bg_outliers</folder>
+	<filename>L1010501.JPG</filename>
+	<path>C:\Users\glanz\source\repos\ImageAnalysis\Labelling\train\5. noisy_bg_outliers\L1010501.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OOD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3248</xmin>
+			<ymin>1091</ymin>
+			<xmax>3894</xmax>
+			<ymax>1748</ymax>
+		</bndbox>
+	</object>
+</annotation>
