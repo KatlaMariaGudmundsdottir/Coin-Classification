@@ -1,2 +1,5 @@
 # Contains training set, test set, sample submission and reference coin images
 data/ 
+
+# Contains output images of cropped coins
+output
