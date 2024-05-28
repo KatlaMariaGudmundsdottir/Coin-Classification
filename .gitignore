@@ -1,3 +1,17 @@
+# Original data containing ref, train and test
+Data/
+
+# Restructured dataset file for coin detector model
+dataset/
+
+# Saved coin detector model
+*.pth
+
+# Output from coin detection model
 output/
-data/
-coin_detector.pth
+
+# CLASSIFIER: Augmented images for classifier model
+path_to_save_augmented_images/
+
+# Models
+*.h5
