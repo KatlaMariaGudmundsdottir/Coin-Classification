@@ -17,3 +17,5 @@ path_to_save_augmented_images/
 logs/
 
 .DS_Store
+
+Extracted_Training_Data/
