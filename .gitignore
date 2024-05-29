@@ -1,6 +1,3 @@
-# Original data containing ref, train and test
-Data/
-
 # Restructured dataset file for coin detector model
 dataset/
 
