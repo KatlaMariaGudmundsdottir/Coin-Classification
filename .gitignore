@@ -16,4 +16,7 @@ path_to_save_augmented_images/
 # Models
 *.h5
 
+# Logs
+logs/
+
 .DS_Store
